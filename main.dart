@@ -1,8 +1,5 @@
 import 'package:flutter/material.dart';
-import 'myui/container.dart';
-import 'myui/c2.dart';
+import 'ui/first.dart';
 main() {
-  runApp(
-    mycontainer2()
-  );
+  runApp(myfirstapp());
 }
